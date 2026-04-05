@@ -28,7 +28,7 @@ public class Day29{
 
         int answer[]=Topk(arr,k);
         for(Integer a:answer){
-            System.out.println(a+" ");
+            System.out.print(a+" ");
         }
     }
 }
