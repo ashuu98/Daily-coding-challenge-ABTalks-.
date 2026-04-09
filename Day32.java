@@ -24,6 +24,6 @@ public class Day32 {
         }
         int target=sc.nextInt();
 
-        System.out.println(BinarySearch(arr,target));
+        System.out.println("index is:"+BinarySearch(arr,target));
     }
 }
