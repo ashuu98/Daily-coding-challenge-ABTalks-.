@@ -41,8 +41,6 @@ public class Day38 {
         Node root=tree.buildtree(nodes);
         System.out.println(root.data);
 
-        
         tree.inorder(root);
- 
      }
     }

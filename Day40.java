@@ -44,6 +44,6 @@ public class Day40 {
             root = insert(root, val);
         }
 
-        System.out.println("Is valid BST: " + isValidBST(root));
+        System.out.println( isValidBST(root));
     }
 }
